@@ -1,7 +1,7 @@
 ######################## default configuration ####################
-baseURL = "http://site_mamaonaroda.netlify.app/"
+baseURL = "http://mamaonaroda.netlify.app/"
 title = "Bigspring Light"
-theme = "bigspring-light"
+theme = "site_mamaonaroda"
 # post pagination
 paginate = "3"
 # post excerpt
