@@ -63,7 +63,7 @@ Get It Now | [![download-light](https://demo.gethugothemes.com/icons/download.pn
 git clone git@github.com:themefisher/bigspring-hugo.git
 
 # cd in the project directory
-$ cd bigspring-hugo/exampleSite/
+$ cd bigspring-hugo/site_mamaonaroda/
 
 # Start local dev server
 $ hugo server --themesDir ../..
