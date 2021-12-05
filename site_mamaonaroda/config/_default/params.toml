@@ -2,8 +2,8 @@
 logo = "images/logo.png"
 logo_width = "200px"
 # OpenGraph / Twitter Card metadata
-description = "This is meta description"
-author = "Themefisher"
+description = "Site Mamão na Roda"
+author = "Mamão na Roda"
 image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
@@ -26,26 +26,26 @@ link = "contact"
 [cookies]
 enable = false
 expire_days = 2
-content = "This site uses cookies. By continuing to use this website, you agree to their use."
-button = "I Accept"
+content = "Este site usa cookies. Para continuar navegando, segundo a lei vigente, você precisa concordar."
+button = "Eu aceito"
   
 ############################# social site ########################
 [[social]]
 title = "facebook"
 icon = "fab fa-facebook" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://www.facebook.com/MamaoNaRodaConcursos"
 
 [[social]]
 title = "twitter"
 icon = "fab fa-twitter" # themify icon : https://themify.me/themify-icons
-link = "#"
-
-[[social]]
-title = "skype"
-icon = "fab fa-skype" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://www.twitter.com/mamaonaroda"
 
 [[social]]
 title = "linkedin"
 icon = "fab fa-linkedin" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://www.linkedin.com/company/mamaonaroda/"
+
+[[social]]
+title = "instagram"
+icon = "fab fa-instagram" # themify icon : https://themify.me/themify-icons
+link = "https://www.instagram.com/mamaonaroda/"

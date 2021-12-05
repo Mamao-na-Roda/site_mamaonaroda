@@ -2,12 +2,14 @@
 [pt]
 languageName = "pt"
 title = "Mamão na Roda"
-contentDir = "content/Portuguese" # content/german
-weight = 2
+contentDir = "content/portuguese" # content/german
+weight = 0
+
 ########### footer content ##########
-footer_menu_left = "Firma"
+footer_menu_left = "Iniciativa"
 footer_menu_middle = "Livros"
 footer_menu_right = "Suporte"
-footer_content = "Siga-nos em sua rede social favorida."
+footer_content = "Siga-nos."
+
 # copyright
-copyright = "© 2021 Mamão na Roda. Design By [Themefisher](https://themefisher.com/) Develop By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "© 2021 Mamão na Roda."

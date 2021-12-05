@@ -1,0 +1,43 @@
+# main menu
+[[main]]
+name = "Início"
+url = "/"
+weight = 1
+
+[[main]]
+name = "Livros"
+url = "books"
+weight = 2
+
+[[main]]
+name = "Blog"
+url = "blog"
+weight = 3
+
+[[main]]
+name = "Sobre"
+url = "about"
+weight = 4
+
+[[main]]
+name = "Contato"
+url = "contact"
+weight = 4
+
+# footer menu left
+[[footer_left]]
+name = "Sobre"
+url = "about"
+
+[[footer_left]]
+name = "Contato"
+url = "contact"
+
+[[footer_middle]]
+name = "Auditoria Volume 1 2020"
+url = "livro-auditoria-v1-2020"
+
+# footer menu right
+[[footer_right]]
+name = "FAQ"
+url = "faq"
