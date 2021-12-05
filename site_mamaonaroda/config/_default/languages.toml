@@ -1,8 +1,8 @@
 ############################# Portuguese ############################
 [pt]
-languageName = "pt"
+languageName = "Português"
 title = "Mamão na Roda"
-contentDir = "content/portuguese" # content/german
+contentDir = "content/portuguese" # content/portuguese
 weight = 0
 
 ########### footer content ##########
