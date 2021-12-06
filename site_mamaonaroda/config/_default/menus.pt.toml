@@ -19,25 +19,23 @@ name = "Sobre"
 url = "about"
 weight = 4
 
-[[main]]
-name = "Contato"
-url = "contact"
-weight = 5
-
 # footer menu left
 [[footer_left]]
 name = "Sobre"
 url = "about"
+weight = 1
+
+[[footer_left]]
+name = "Dúvidas"
+url = "faq"
+weight = 2
 
 [[footer_left]]
 name = "Contato"
 url = "contact"
+weight = 3
 
 [[footer_middle]]
 name = "Auditoria Volume 1 2020"
 url = "book/book-1"
-
-# footer menu right
-[[footer_right]]
-name = "FAQ"
-url = "faq"
+weight = 1
