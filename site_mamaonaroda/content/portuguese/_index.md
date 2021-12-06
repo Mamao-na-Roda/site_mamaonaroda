@@ -1,13 +1,13 @@
 ---
 ####################### Banner #########################
 banner:
-  title : "aaaaaoi oiEstudar eh Mamao na Roda - Let us solve your critical website <br> development challenges"
+  title : "Estudar na praia?"
   image : "images/banner-art.svg"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque <br> totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus"
+  content : "Que tal revisar enquanto  "
   button:
     enable : true
-    label : "Contact Us"
-    link : "contact"
+    label : "Conheça"
+    link : "book"
 
 ##################### Feature ##########################
 feature:
@@ -37,7 +37,7 @@ feature:
     # feature item loop
     - name : "Coaching Zen"
       icon : "fas fa-spa"
-      content : "Dicas, técnicas e Inspiração para um trato no seu emocional."
+      content : "Dicas, técnicas e inspiração para um trato no seu emocional."
       
     # feature item loop
     - name : "Feito com Amor"
@@ -49,63 +49,54 @@ service:
   enable : true
   service_item:
     # service item loop
-    - title : "It is the most advanced digital marketing and it company."
+    - title : "Estrutura de Perguntas e Respostas tipo _flashcards_"
       images:
-      - "images/service-1.png"
-      - "images/service-2.png"
-      - "images/service-3.png"
-      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+      - "images/features/feature-1.png"
+      - "images/features/feature-2.png"
+      - "images/features/feature-3.png"
+      content : "Ao invés de um grande monólogo, nosso formato estimula que você esteja a todo instante verificando o que ainda lembra. Isso evita o famoso 'deu branco'. Não basta o conhecimento estar no seu cérebro. Você precisa construir fortes rotas de recuperação. "
       button:
         enable : true
-        label : "Check it out"
-        link : "#"
+        label : "Saiba mais"
+        link : "book"
         
     # service item loop
-    - title : "It is a privately owned Information and cyber security company"
+    - title : "Destaques coloridos"
       images:
-      - "images/service-1.png"
-      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+      - "images/features/feature-4.png"
+      - "images/features/feature-5.png"
+      - "images/features/feature-6.png"
+      content : "Holofotes nos detalhes cobrados e que fazem toda a diferença."
       button:
         enable : true
-        label : "Check it out"
-        link : "#"
-        
+        label : "Saiba mais"
+        link : "book"        
+
     # service item loop
-    - title : "It’s a team of experienced and skilled people with distributions"
+    - title : "Esquemas inesquecíveis"
       images:
-      - "images/service-2.png"
-      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+      - "images/features/feature-7.png"
+      content : "Você vai se apaixonar."
       button:
         enable : true
-        label : "Check it out"
-        link : "#"
-        
-    # service item loop
-    - title : "A company standing different from others"
-      images:
-      - "images/service-3.png"
-      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
-      button:
-        enable : true
-        label : "Check it out"
-        link : "#"
+        label : "Saiba mais"
+        link : "book"      
         
 ################### Screenshot ########################
 screenshot:
-  enable : true
+  enable : false
   title : "Experience the best <br> workflow with us"
   image : "images/screenshot.svg"
-
   
 
 ##################### Call to action #####################
 call_to_action:
   enable : true
-  title : "Saiba mais"
+  title : "Iniciativa sem fins lucrativos que não pede doações"
   image : "images/cta.svg"
-  content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur."
+  content : "Vamos ajudar pessoas de baixa renda ou com necessidades especiais..."
   button:
     enable : true
-    label : "Saiba mais"
-    link : "https://www.amazon.com.br/dp/B08R6FZZQH"
+    label : "Sobre a Mamão na Roda"
+    link : "about"
 ---
