@@ -22,7 +22,7 @@ feature:
     # feature item loop
     - name : "Memorização Aplicada"
       icon : "fas fa-magnet"
-      content : "Flashcards com macetes e esquemas divertidos."
+      content : "Flashcards com macetes e esquemas magnéticos."
       
     # feature item loop
     - name : "Irreverente"
@@ -30,20 +30,19 @@ feature:
       content : "Aguente estudar por mais horas e esqueça a dor no bumbum."
       
       # feature item loop
-    - name : "Produndidade certa"
-      icon : "fas fa-exclamation-circle"
-      content : "Exemplos, sinônimos e outros complementos necessários para você não se confundir."
-    
+    - name : "Profundidade certa"
+      icon : "fas fa-exclamation-triangle"
+      content : "Exemplos, sinônimos e outros complementos para você não se confundir."
+          
+    # feature item loop
+    - name : "Coaching Zen"
+      icon : "fas fa-spa"
+      content : "Dicas, técnicas e Inspiração para um trato no seu emocional."
+      
     # feature item loop
     - name : "Feito com Amor"
       icon : "fas fa-heart"
       content : "Conferido mais vezes que bilhete de loteria premiado."
-      
-    # feature item loop
-    - name : "Coaching Zen"
-      icon : "fas fa-spa"
-      content : "Dicas, Técnicas e Inspiração para um trato no seu emocional."
-      
 
 ######################### Service #####################
 service:

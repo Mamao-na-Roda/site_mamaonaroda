@@ -5,21 +5,21 @@ subtitle: ""
 description: "Dúvidas Frequentes sobre a Mamão na Roda"
 draft: false
 ---
-{{< faq "Vocês oferecem correções gratuitas?" >}}
-Durante o período de 1 ano, quaisquer correções ou atualizações podem ser automaticamente baixadas em todos dispositivos sem custos adicionais. 
+{{< faq "Posso ver uma amostra grátis?" >}}
+Sim. Baixe direto na loja da Amazon.
 {{</ faq >}}
 
 {{< faq "Tem em PDF?" >}}
-No momento, oferecemos livros apenas em formato Kindle. Com ele você pode baixar em qualquer computador, celular, tablet ou e-Reader Kindle. 
-Em todos dispositivos é possível fazer marcações, anotações criar flashcards e muito mais. 
+Oferecemos livros apenas em formato Kindle. Com ele você pode baixar em qualquer computador, celular ou tablet. 
+Em qualquer dispositivo você pode fazer marcações, anotações, criar flashcards e muito mais. 
 {{</ faq >}}
 
-{{< faq "Se meu dispositivo quebrar, consigo recuperar o livro?" >}}
-Sim! Essa é uma grande vantagem do Kindle em relação ao PDF!.
-Seu livro também fica na Nuvem e pode ser recuperado em caso de perdas de dispositivo.
-E sem precisar de assinatura mensal ou qualquer custo adicional.
+
+{{< faq "Vocês oferecem correções gratuitas?" >}}
+Por 1 ano, quaisquer correções ou atualizações podem ser automaticamente baixadas em todos dispositivos sem custo extra. 
 {{</ faq >}}
 
-{{< faq "Posso pedir reembolso?" >}}
-Sim, direto no site da Amazon, de acordo com as políticas da empresa.
+{{< faq "E se meu dispositivo quebrar, consigo recuperar o livro?" >}}
+Sim! Essa é uma grande vantagem do Kindle em relação ao PDF.
+Seu livro ainda fica numa nuvem e pode ser recuperado em caso de perda de dispositivo, sem custos adicionais.
 {{</ faq >}}
