@@ -15,3 +15,25 @@ googleAnalytics = "UA-173981901-1" # example : UA-123-45
 [markup.goldmark.renderer]
 unsafe = false
 
+######################### site variables ##############################
+# customize your color and font from here.
+[params.variables]
+#color_primary = "purple"
+#color_secondary = "orange"
+#body_color = "#fff"
+#text_color = "#666666"
+#text_dark = "#222222"
+#text_light = "#959595"
+#border_color = "#ACB9C4"
+#black = "#000"
+#white = "#fff"
+#light = "#fdfdfd"
+
+primary_color = "#693FA5"
+text_color = "#777"
+text_color_dark = "#222"
+body_color = "#fff"
+border_color = "#ECECEC"
+black = "#000"
+white = "#fff"
+light = "#EAE3F2"
