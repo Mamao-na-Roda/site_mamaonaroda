@@ -1,23 +1,23 @@
 [readmore]
-other = "Read more"
+other = "Saiba mais"
 
 [translations]
-other="Translations"
+other="Traduções"
 
 [error404]
-other = "We are really sorry but there seems to be nothing here."
+other = "Página não encontrada. Foi erro no servidor ou esta página não existe mais."
 
 [yourname]
-other = "Your Name"
+other = "Seu nome"
 
 [youremail]
-other = "Your Email"
+other = "Seu e-mail"
 
 [subject]
-other = "Subject"
+other = "Assunto"
 
 [yourmessage]
-other = "Your Message"
+other = "Mensagem"
 
 [sendnow]
-other = "Send Now"
+other = "Enviar"

@@ -14,18 +14,18 @@ blogCategoryType = "category"
 # Preloader
 [preloader]
 enable = false
-preloader = "" # use jpg, png, svg or gif format.
+preloader = "svg" # use jpg, png, svg or gif format.
 
 # Navigation buttons
 [navigation_button]
 enable = true
-label = "Get Started"
-link = "contact"
+label = "Amostra grátis"
+link = "books"
 
 # cookies
 [cookies]
 enable = false
-expire_days = 2
+expire_days = 365
 content = "Este site usa cookies. Para continuar navegando, segundo a lei vigente, você precisa concordar."
 button = "Eu aceito"
   

@@ -3,14 +3,21 @@ baseURL = "http://mamaonaroda.netlify.app/"
 title = "Mamão na Roda"
 theme = "site_mamaonaroda"
 defaultContentLanguage = 'pt'
+enableEmoji = true
+
 # post pagination
 paginate = "3"
+
 # post excerpt
 summaryLength = "15"
+
 # disqus short name
 disqusShortname = "" # get your shortname form here : https://disqus.com
+
 # google analytics
 googleAnalytics = "UA-173981901-1" # example : UA-123-45
+
+
 # unsafe html
 [markup.goldmark.renderer]
 unsafe = false

@@ -10,3 +10,5 @@ Mas em vez de doações, nos financiamos elaborando conteúdos para quem precisa
 O nome “Mamão da Roda” veio da junção de “Mamão com Açúcar” e “Uma mão na roda”. O trocadilho representa o nosso amor por tornar o assunto loucamente fácil de entender!
 
 Você também pode colaborar como um voluntário com sugestões, correções e nos ajudando a divulgar.
+
+[Clique aqui e entre em contato. :heart:]({{< ref "/contact/" >}}) 

@@ -1,18 +1,15 @@
 ---
 ####################### Banner #########################
 banner:
+  enable : true
   title : "Estudar na praia?"
-  image : "images/banner-art.svg"
-  content : "Que tal revisar enquanto  "
-  button:
-    enable : true
-    label : "Conheça"
-    link : "book"
+  image : "images/beach_papaya.svg"
+  content : "Estude com livros Kindle até no sol."  
 
 ##################### Feature ##########################
 feature:
   enable : true
-  title : "Diferenciais"
+  title : "Diferenciais do Conteúdo"
   feature_item:
     # feature item loop
     - name : "Objetivo"
@@ -22,7 +19,7 @@ feature:
     # feature item loop
     - name : "Memorização Aplicada"
       icon : "fas fa-magnet"
-      content : "Flashcards com macetes e esquemas magnéticos."
+      content : "Estilo _flashcards_ com macetes e esquemas magnéticos."
       
     # feature item loop
     - name : "Irreverente"
@@ -57,19 +54,19 @@ service:
       content : "Ao invés de um grande monólogo, nosso formato estimula que você esteja a todo instante verificando o que ainda lembra. Isso evita o famoso 'deu branco'. Não basta o conhecimento estar no seu cérebro. Você precisa construir fortes rotas de recuperação. "
       button:
         enable : true
-        label : "Saiba mais"
+        label : "Baixe uma amostra grátis"
         link : "book"
         
     # service item loop
-    - title : "Destaques coloridos"
+    - title : "Destaques divertidos"
       images:
       - "images/features/feature-4.png"
       - "images/features/feature-5.png"
       - "images/features/feature-6.png"
-      content : "Holofotes nos detalhes cobrados e que fazem toda a diferença."
+      content : "Holofotes nos detalhes que fazem toda a diferença."
       button:
         enable : true
-        label : "Saiba mais"
+        label : "Baixe uma amostra grátis"
         link : "book"        
 
     # service item loop
@@ -79,21 +76,20 @@ service:
       content : "Você vai se apaixonar."
       button:
         enable : true
-        label : "Saiba mais"
+        label : "Baixe uma amostra grátis"
         link : "book"      
         
 ################### Screenshot ########################
 screenshot:
-  enable : false
-  title : "Experience the best <br> workflow with us"
-  image : "images/screenshot.svg"
-  
+  enable : true  
+  image : "images/naroda_beach.svg"
+  content : "Estude com livros Kindle até no sol."  
 
 ##################### Call to action #####################
 call_to_action:
   enable : true
   title : "Iniciativa sem fins lucrativos que não pede doações"
-  image : "images/cta.svg"
+  image : "images/hands.svg"
   content : "Vamos ajudar pessoas de baixa renda ou com necessidades especiais..."
   button:
     enable : true
