@@ -9,10 +9,10 @@ name = "Livros"
 url = "book"
 weight = 2
 
-[[main]]
-name = "Blog"
-url = "blog"
-weight = 3
+#[[main]]
+#name = "Blog"
+#url = "blog"
+#weight = 3
 
 [[main]]
 name = "Sobre"

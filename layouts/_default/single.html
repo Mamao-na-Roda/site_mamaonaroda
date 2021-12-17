@@ -22,6 +22,41 @@
   </div>
 </section>
 
+
+{{ else if (eq .Section "book") }}
+
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 mx-auto">        
+        <h2 class="mb-4">{{ .Title }}</h2>
+        <div class="content">{{.Content}}</div>        
+      </div>
+      
+      <div class="col-lg-8 mx-auto" style="text-align: center;">                
+        <a href="{{ .Params.link_amazon}}" target="_blank"> 
+        Ver na Amazon:
+        <br/>    
+            
+            
+        <img src="{{ .Params.image | relURL }}" alt="{{ .Title }}" class="img-fluid rounded-lg w-50" width="60%">
+        </a>        
+        
+        <!-- comments -->
+        {{ if site.DisqusShortname }}
+        <div class="mt-5">
+          {{ template "_internal/disqus.html" . }}
+        </div>
+        {{ end }}
+      </div>
+      
+      
+    </div>
+  </div>
+</section>
+
+
+
 <!-- regular page -->
 {{ else }}
 {{ partial "page-header.html" . }}

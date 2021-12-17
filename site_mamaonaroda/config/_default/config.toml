@@ -1,6 +1,8 @@
 ######################## default configuration ####################
 baseURL = "http://mamaonaroda.netlify.app/"
 title = "Mamão na Roda"
+name = "Mamão na Roda"
+description = "Estude. Relaxe. Passe."
 theme = "site_mamaonaroda"
 defaultContentLanguage = 'pt'
 enableEmoji = true
