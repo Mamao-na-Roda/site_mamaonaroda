@@ -2,7 +2,7 @@
 title: "Direito Constitucional Mamão na Roda para Concursos e OAB - Volume 1 - 2022"
 date: 2022-05-11T10:07:21+06:00
 # post image
-image: "images/books/D.Constitucional_v1_2022.webp"
+image: "images/books/D.Constitucional_v1_2022.jpg"
 # post type (regular/featured)
 type: "featured"
 # meta description

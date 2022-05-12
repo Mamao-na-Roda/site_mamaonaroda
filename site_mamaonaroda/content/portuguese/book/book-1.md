@@ -2,7 +2,7 @@
 title: "Auditoria Mamão na Roda para Concursos Volume 1 - 2020"
 date: 2020-04-18T10:07:21+06:00
 # post image
-image: "images/books/Auditoria_v1_2020.webp"
+image: "images/books/Auditoria_v1_2020.jpg"
 # post type (regular/featured)
 type: "featured"
 # meta description
