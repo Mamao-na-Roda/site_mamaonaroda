@@ -1,8 +1,8 @@
 ---
 title: "Livros"
-subtitle: "Conheça nosso primeiro Livro Kindle"
+subtitle: "Conheça nossos Livros Kindle"
 # meta description
-description: "Conheça nosso primeiro Livro Kindle"
+description: "Conheça nossos Livros Kindle"
 draft: false
 ---
 
