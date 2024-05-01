@@ -11,7 +11,7 @@ description: "Página do Direito Penal Mamão na Roda para Concursos e OAB - Vol
 draft: false
 
 #custom
-link_amazon: "https://www.amazon.com.br/gp/product/B08R6FZZQH"
+link_amazon: "https://www.amazon.com.br/gp/product/B0CW1JBLXR?notRedirectToSDP=1&ref_=dbs_mng_calw_3&storeType=ebooks"
 
 ---
 
@@ -26,5 +26,7 @@ Tópicos:
 * Resultado e Nexo de Causalidade
 * Erros Penais
 * Ilicitude e suas Excludentes
+
+
 
 
